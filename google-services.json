@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578384667063",
+    "project_id": "hinge-replica",
+    "storage_bucket": "hinge-replica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578384667063:android:87a19672bce5e29709c832",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6vr2eR3zpvBx5wavbCSGRpOCqNmBYMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
