@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# Video Sharing Social Media Application  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This repository contains the code for a **Video Sharing Social Media Application** built using **React Native** and **Expo**. The app allows users to share, explore, and interact with video content, featuring core functionalities like search, profile authentication, post creation, feed tab, bookmarking, and more.  
 
-## Get started
+---
 
-1. Install dependencies
+## Features  
 
-   ```bash
-   npm install
-   ```
+- 🔍 **Search Functionality**:  
+  Users can search for videos, profiles, and hashtags with real-time suggestions.  
 
-2. Start the app
+- 🛡️ **Profile Authentication**:  
+  Secure sign-up, login, and profile management using Firebase Authentication.  
 
-   ```bash
-    npx expo start
-   ```
+- 🎥 **Post Creation**:  
+  Users can upload or record videos directly in the app and share them with captions and hashtags.  
 
-In the output, you'll find options to open the app in a
+- 📄 **Feed Tab**:  
+  Displays a personalized feed of video content, including trending and followed users' posts.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 🔖 **Bookmarking**:  
+  Users can save videos to view later, accessible from their profile.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 🌟 **Additional Features**:  
+  - Push notifications for likes, comments, and new followers.  
+  - Explore tab for trending videos and profiles.  
+  - Dark mode for an enhanced user experience.  
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## Tech Stack  
 
-```bash
-npm run reset-project
-```
+The application is built with modern technologies to ensure high performance and scalability:  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- **Frontend**:  
+  - ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) React Native for building the cross-platform user interface.  
+  - ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white) Expo for simplifying development and deployment processes.  
 
-## Learn more
+- **Backend & Database**:  
+  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Firestore for real-time data storage and retrieval.  
+  - ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Authentication for secure user authentication.  
+  - ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Storage for hosting user-uploaded video content.  
 
-To learn more about developing your project with Expo, look at the following resources:
+- **Styling**:  
+  - ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) TailwindCSS for responsive and utility-first styling.  
+  - ![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=flat&logo=react&logoColor=61DAFB) NativeWind for seamless TailwindCSS integration with React Native.  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **State Management**:  
+  - Context API for efficient state management across the application.  
