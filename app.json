@@ -13,17 +13,14 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.galaxies.firebase",
-      "googleServicesFile": "./ios/GoogleService-Info.plist"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.galaxies.firebase",
-      "googleServicesFile": "./google-services.json"
+      "package":"com.ank.basico"
     },
     "web": {
       "bundler": "metro",
