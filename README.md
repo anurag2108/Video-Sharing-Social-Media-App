@@ -37,9 +37,9 @@ The application is built with modern technologies to ensure high performance and
   - ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white) Expo for simplifying development and deployment processes.  
 
 - **Backend & Database**:  
-  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Firestore for real-time data storage and retrieval.  
-  - ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Authentication for secure user authentication.  
-  - ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase Storage for hosting user-uploaded video content.  
+  - ![Appwrite Database](https://img.shields.io/badge/Appwrite%20Database-FF3366?style=flat&logo=appwrite&logoColor=white) Appwrite Database for real-time data storage and retrieval.  
+  - ![Appwrite Authentication](https://img.shields.io/badge/Appwrite%20Auth-FF3366?style=flat&logo=appwrite&logoColor=white) Appwrite Authentication for secure user authentication.  
+  - ![Appwrite Storage](https://img.shields.io/badge/Appwrite%20Storage-FF3366?style=flat&logo=appwrite&logoColor=white) Appwrite Storage for hosting user-uploaded video content.    
 
 - **Styling**:  
   - ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) TailwindCSS for responsive and utility-first styling.  
